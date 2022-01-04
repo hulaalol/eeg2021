@@ -1,0 +1,95 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{Kappenman2021}{article}{}
+    \name{author}{5}{}{%
+      {{hash=KES}{%
+         family={Kappenman},
+         familyi={K\bibinitperiod},
+         given={Emily\bibnamedelima S.},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=FJL}{%
+         family={Farrens},
+         familyi={F\bibinitperiod},
+         given={Jaclyn\bibnamedelima L.},
+         giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=ZW}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Wendy},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SAX}{%
+         family={Stewart},
+         familyi={S\bibinitperiod},
+         given={Andrew\bibnamedelima X.},
+         giveni={A\bibinitperiod\bibinitdelim X\bibinitperiod},
+      }}%
+      {{hash=LSJ}{%
+         family={Luck},
+         familyi={L\bibinitperiod},
+         given={Steven\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Event-related potentials, EEG, Data quality, Open science,
+  Reproducibility}
+    \strng{namehash}{KES+1}
+    \strng{fullhash}{KESFJLZWSAXLSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{abstract}{%
+    Event-related potentials (ERPs) are noninvasive measures of human brain
+  activity that index a range of sensory, cognitive, affective, and motor
+  processes. Despite their broad application across basic and clinical
+  research, there is little standardization of ERP paradigms and analysis
+  protocols across studies. To address this, we created ERP CORE (Compendium of
+  Open Resources and Experiments), a set of optimized paradigms, experiment
+  control scripts, data processing pipelines, and sample data (N = 40
+  neurotypical young adults) for seven widely used ERP components: N170,
+  mismatch negativity (MMN), N2pc, N400, P3, lateralized readiness potential
+  (LRP), and error-related negativity (ERN). This resource makes it possible
+  for researchers to 1) employ standardized ERP paradigms in their research, 2)
+  apply carefully designed analysis pipelines and use a priori selected
+  parameters for data processing, 3) rigorously assess the quality of their
+  data, and 4) test new analytic techniques with standardized data from a wide
+  range of paradigms.%
+    }
+    \verb{doi}
+    \verb https://doi.org/10.1016/j.neuroimage.2020.117465
+    \endverb
+    \field{issn}{1053-8119}
+    \field{pages}{117465}
+    \field{title}{ERP CORE: An open resource for human event-related potential
+  research}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S1053811920309502
+    \endverb
+    \field{volume}{225}
+    \field{journaltitle}{NeuroImage}
+    \field{year}{2021}
+  \endentry
+\enddatalist
+\endinput

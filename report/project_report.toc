@@ -1,0 +1,13 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\contentsline {paragraph}{Abstract}{ii}{}%
+\contentsline {section}{\numberline {1}Introduction and task description}{1}{}%
+\contentsline {section}{\numberline {2}Experiment conditions and data}{1}{}%
+\contentsline {section}{\numberline {3}Preprocessing}{1}{}%
+\contentsline {subsection}{\numberline {3.1}Cleaning}{1}{}%
+\contentsline {subsection}{\numberline {3.2}Re-referencing}{1}{}%
+\contentsline {subsection}{\numberline {3.3}Independent component analysis}{1}{}%
+\contentsline {section}{\numberline {4}ERP peak analysis}{1}{}%
+\contentsline {section}{\numberline {5}Mass univariate analysis}{1}{}%
+\contentsline {section}{\numberline {6}Decoding over time}{1}{}%
+\contentsline {section}{\numberline {7}Declaration of authorship}{i}{}%
